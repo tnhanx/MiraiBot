@@ -1,0 +1,107 @@
+{
+    "total": [
+        {
+            "id": "100055849505800",
+            "count": 1
+        },
+        {
+            "id": "100078007702643",
+            "count": 5
+        },
+        {
+            "id": "100078434331206",
+            "count": 18
+        },
+        {
+            "id": "100078959630192",
+            "count": 2
+        },
+        {
+            "id": "100079856397135",
+            "count": 0
+        },
+        {
+            "id": "100086790385929",
+            "count": 0
+        },
+        {
+            "id": "100086934831970",
+            "count": 11
+        }
+    ],
+    "week": [
+        {
+            "id": "100055849505800",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078007702643",
+            "count": 0,
+            "name": "Nguyễn Thị Ngọc Ánh"
+        },
+        {
+            "id": "100078434331206",
+            "count": 0,
+            "name": "Nguyen Phuonw Lie"
+        },
+        {
+            "id": "100078959630192",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079856397135",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086790385929",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        }
+    ],
+    "day": [
+        {
+            "id": "100055849505800",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078007702643",
+            "count": 0,
+            "name": "Nguyễn Thị Ngọc Ánh"
+        },
+        {
+            "id": "100078434331206",
+            "count": 0,
+            "name": "Nguyen Phuonw Lie"
+        },
+        {
+            "id": "100078959630192",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079856397135",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086790385929",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        }
+    ],
+    "time": 4
+}

@@ -1,0 +1,317 @@
+{
+    "total": [
+        {
+            "id": "100033148549701",
+            "count": 0
+        },
+        {
+            "id": "100050427489190",
+            "count": 1
+        },
+        {
+            "id": "100052618383662",
+            "count": 0
+        },
+        {
+            "id": "100054974851117",
+            "count": 57
+        },
+        {
+            "id": "100055926676123",
+            "count": 126
+        },
+        {
+            "id": "100058368795741",
+            "count": 15
+        },
+        {
+            "id": "100066128851049",
+            "count": 1
+        },
+        {
+            "id": "100067850213899",
+            "count": 17
+        },
+        {
+            "id": "100069921923273",
+            "count": 2
+        },
+        {
+            "id": "100073449410252",
+            "count": 126
+        },
+        {
+            "id": "100075724755176",
+            "count": 0
+        },
+        {
+            "id": "100076217952505",
+            "count": 66
+        },
+        {
+            "id": "100077592699091",
+            "count": 8
+        },
+        {
+            "id": "100078858037540",
+            "count": 7
+        },
+        {
+            "id": "100079096602952",
+            "count": 0
+        },
+        {
+            "id": "100080760014097",
+            "count": 2
+        },
+        {
+            "id": "100083313653377",
+            "count": 27
+        },
+        {
+            "id": "100083555929833",
+            "count": 86
+        },
+        {
+            "id": "100083724621861",
+            "count": 84
+        },
+        {
+            "id": "100084231647333",
+            "count": 26
+        },
+        {
+            "id": "100085148203249",
+            "count": 8
+        },
+        {
+            "id": "100086934831970",
+            "count": 329
+        }
+    ],
+    "week": [
+        {
+            "id": "100033148549701",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100050427489190",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052618383662",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100054974851117",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100055926676123",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058368795741",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100066128851049",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100067850213899",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100069921923273",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073449410252",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075724755176",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100076217952505",
+            "count": 0,
+            "name": "Đỗ Khánh Linh"
+        },
+        {
+            "id": "100077592699091",
+            "count": 0,
+            "name": "Phương Chípp"
+        },
+        {
+            "id": "100078858037540",
+            "count": 0,
+            "name": "ʚKim Anhhɞ"
+        },
+        {
+            "id": "100079096602952",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080760014097",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083313653377",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083555929833",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083724621861",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084231647333",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085148203249",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        }
+    ],
+    "day": [
+        {
+            "id": "100033148549701",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100050427489190",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052618383662",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100054974851117",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100055926676123",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100058368795741",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100066128851049",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100067850213899",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100069921923273",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073449410252",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075724755176",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100076217952505",
+            "count": 0,
+            "name": "Đỗ Khánh Linh"
+        },
+        {
+            "id": "100077592699091",
+            "count": 0,
+            "name": "Phương Chípp"
+        },
+        {
+            "id": "100078858037540",
+            "count": 0,
+            "name": "ʚKim Anhhɞ"
+        },
+        {
+            "id": "100079096602952",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100080760014097",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083313653377",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083555929833",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100083724621861",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084231647333",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085148203249",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        }
+    ],
+    "time": 4
+}

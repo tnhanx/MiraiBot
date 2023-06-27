@@ -1,0 +1,149 @@
+{
+    "total": [
+        {
+            "id": "100048019417931",
+            "count": 20
+        },
+        {
+            "id": "100074994651798",
+            "count": 8
+        },
+        {
+            "id": "100079906746044",
+            "count": 0
+        },
+        {
+            "id": "100082353061756",
+            "count": 24
+        },
+        {
+            "id": "100086934831970",
+            "count": 70
+        },
+        {
+            "id": "100087755438796",
+            "count": 10
+        },
+        {
+            "id": "100087430704280",
+            "count": 8
+        },
+        {
+            "id": "100086638105036",
+            "count": 3
+        },
+        {
+            "id": "100053542129430",
+            "count": 2
+        },
+        {
+            "id": "100060882678179",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100048019417931",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074994651798",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079906746044",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082353061756",
+            "count": 0,
+            "name": "Thii Xuann"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        },
+        {
+            "id": "100087755438796",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087430704280",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086638105036",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100053542129430",
+            "count": 0,
+            "name": "Long Hoàngg"
+        },
+        {
+            "id": "100060882678179",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100048019417931",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074994651798",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079906746044",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082353061756",
+            "count": 0,
+            "name": "Thii Xuann"
+        },
+        {
+            "id": "100086934831970",
+            "count": 0,
+            "name": "Lê Minh Tiến"
+        },
+        {
+            "id": "100087755438796",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087430704280",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086638105036",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100053542129430",
+            "count": 0,
+            "name": "Long Hoàngg"
+        },
+        {
+            "id": "100060882678179",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 4
+}

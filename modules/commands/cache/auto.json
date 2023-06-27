@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "schedule": [
+    "19:30:00",
+    "19:43:00",
+    "06:11:00",
+    "12:00:00"
+  ],
+  "blockID": [],
+  "urlAPI": "https://ApiRandom.nguyenquochungxyz.repl.co/getLink2"
+}

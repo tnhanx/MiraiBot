@@ -1,0 +1,415 @@
+{
+    "total": [
+        {
+            "id": "100027179912388",
+            "count": 0
+        },
+        {
+            "id": "100039215243060",
+            "count": 0
+        },
+        {
+            "id": "100044027662291",
+            "count": 0
+        },
+        {
+            "id": "100047045989873",
+            "count": 0
+        },
+        {
+            "id": "100052832229254",
+            "count": 0
+        },
+        {
+            "id": "100056521193572",
+            "count": 4
+        },
+        {
+            "id": "100072031074948",
+            "count": 0
+        },
+        {
+            "id": "100072440468484",
+            "count": 0
+        },
+        {
+            "id": "100072465193011",
+            "count": 0
+        },
+        {
+            "id": "100074378274145",
+            "count": 0
+        },
+        {
+            "id": "100074428629051",
+            "count": 0
+        },
+        {
+            "id": "100074673093946",
+            "count": 0
+        },
+        {
+            "id": "100078762117419",
+            "count": 0
+        },
+        {
+            "id": "100079018665139",
+            "count": 0
+        },
+        {
+            "id": "100080433707033",
+            "count": 0
+        },
+        {
+            "id": "100080595995441",
+            "count": 0
+        },
+        {
+            "id": "100081526718027",
+            "count": 0
+        },
+        {
+            "id": "100081675875802",
+            "count": 0
+        },
+        {
+            "id": "100081713798429",
+            "count": 0
+        },
+        {
+            "id": "100082460441688",
+            "count": 0
+        },
+        {
+            "id": "100083226423183",
+            "count": 0
+        },
+        {
+            "id": "100083320352287",
+            "count": 0
+        },
+        {
+            "id": "100083582734074",
+            "count": 4
+        },
+        {
+            "id": "100083803691852",
+            "count": 0
+        },
+        {
+            "id": "100083810047831",
+            "count": 1
+        },
+        {
+            "id": "100084169570865",
+            "count": 0
+        },
+        {
+            "id": "100084385401526",
+            "count": 0
+        },
+        {
+            "id": "100084480771596",
+            "count": 0
+        },
+        {
+            "id": "100087635375860",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100027179912388",
+            "count": 0,
+            "name": "Giang Châu"
+        },
+        {
+            "id": "100039215243060",
+            "count": 0,
+            "name": "Nguyễn Thị TuAnh"
+        },
+        {
+            "id": "100044027662291",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100047045989873",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052832229254",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056521193572",
+            "count": 0,
+            "name": "Phạm Thị Thu Huyền"
+        },
+        {
+            "id": "100072031074948",
+            "count": 0,
+            "name": "Bẹp's Ngọc"
+        },
+        {
+            "id": "100072440468484",
+            "count": 0,
+            "name": "Hắc'z Hàn'z Linh'z"
+        },
+        {
+            "id": "100072465193011",
+            "count": 0,
+            "name": "Nguyễn Hoa"
+        },
+        {
+            "id": "100074378274145",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074428629051",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074673093946",
+            "count": 0,
+            "name": "Lưu Hồng Diệp"
+        },
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "100079018665139",
+            "count": 0,
+            "name": "Alice Rank Bạc"
+        },
+        {
+            "id": "100080433707033",
+            "count": 0,
+            "name": "Nguyễn Thị Thương"
+        },
+        {
+            "id": "100080595995441",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081526718027",
+            "count": 0,
+            "name": "Nguyễn Dung"
+        },
+        {
+            "id": "100081675875802",
+            "count": 0,
+            "name": "Dương Nấm"
+        },
+        {
+            "id": "100081713798429",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082460441688",
+            "count": 0,
+            "name": "Trần Thị Huỳnh Nhi"
+        },
+        {
+            "id": "100083226423183",
+            "count": 0,
+            "name": "Trang Kìu"
+        },
+        {
+            "id": "100083320352287",
+            "count": 0,
+            "name": "Ý Nguyên Như"
+        },
+        {
+            "id": "100083582734074",
+            "count": 0,
+            "name": "Yến Nik"
+        },
+        {
+            "id": "100083803691852",
+            "count": 0,
+            "name": "Nam Khánh"
+        },
+        {
+            "id": "100083810047831",
+            "count": 0,
+            "name": "Lê Thảo"
+        },
+        {
+            "id": "100084169570865",
+            "count": 0,
+            "name": "Trương Hải"
+        },
+        {
+            "id": "100084385401526",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084480771596",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087635375860",
+            "count": 0,
+            "name": "Nguyễn Ngọc Huyen Anh"
+        }
+    ],
+    "day": [
+        {
+            "id": "100027179912388",
+            "count": 0,
+            "name": "Giang Châu"
+        },
+        {
+            "id": "100039215243060",
+            "count": 0,
+            "name": "Nguyễn Thị TuAnh"
+        },
+        {
+            "id": "100044027662291",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100047045989873",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052832229254",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100056521193572",
+            "count": 0,
+            "name": "Phạm Thị Thu Huyền"
+        },
+        {
+            "id": "100072031074948",
+            "count": 0,
+            "name": "Bẹp's Ngọc"
+        },
+        {
+            "id": "100072440468484",
+            "count": 0,
+            "name": "Hắc'z Hàn'z Linh'z"
+        },
+        {
+            "id": "100072465193011",
+            "count": 0,
+            "name": "Nguyễn Hoa"
+        },
+        {
+            "id": "100074378274145",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074428629051",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100074673093946",
+            "count": 0,
+            "name": "Lưu Hồng Diệp"
+        },
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "100079018665139",
+            "count": 0,
+            "name": "Alice Rank Bạc"
+        },
+        {
+            "id": "100080433707033",
+            "count": 0,
+            "name": "Nguyễn Thị Thương"
+        },
+        {
+            "id": "100080595995441",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081526718027",
+            "count": 0,
+            "name": "Nguyễn Dung"
+        },
+        {
+            "id": "100081675875802",
+            "count": 0,
+            "name": "Dương Nấm"
+        },
+        {
+            "id": "100081713798429",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082460441688",
+            "count": 0,
+            "name": "Trần Thị Huỳnh Nhi"
+        },
+        {
+            "id": "100083226423183",
+            "count": 0,
+            "name": "Trang Kìu"
+        },
+        {
+            "id": "100083320352287",
+            "count": 0,
+            "name": "Ý Nguyên Như"
+        },
+        {
+            "id": "100083582734074",
+            "count": 0,
+            "name": "Yến Nik"
+        },
+        {
+            "id": "100083803691852",
+            "count": 0,
+            "name": "Nam Khánh"
+        },
+        {
+            "id": "100083810047831",
+            "count": 0,
+            "name": "Lê Thảo"
+        },
+        {
+            "id": "100084169570865",
+            "count": 0,
+            "name": "Trương Hải"
+        },
+        {
+            "id": "100084385401526",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084480771596",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100087635375860",
+            "count": 0,
+            "name": "Nguyễn Ngọc Huyen Anh"
+        }
+    ],
+    "time": 4
+}

@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100078762117419",
+            "count": 63
+        },
+        {
+            "id": "1153327407",
+            "count": 3
+        }
+    ],
+    "week": [
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "1153327407",
+            "count": 0,
+            "name": "Haruki Tora"
+        }
+    ],
+    "day": [
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "1153327407",
+            "count": 1,
+            "name": "Haruki Tora"
+        }
+    ],
+    "time": 4
+}

@@ -1,0 +1,961 @@
+{
+    "total": [
+        {
+            "id": "100008603987883",
+            "count": 0
+        },
+        {
+            "id": "100031925444431",
+            "count": 0
+        },
+        {
+            "id": "100034618173923",
+            "count": 0
+        },
+        {
+            "id": "100034721684405",
+            "count": 1
+        },
+        {
+            "id": "100035338401736",
+            "count": 0
+        },
+        {
+            "id": "100042707543279",
+            "count": 0
+        },
+        {
+            "id": "100044065340362",
+            "count": 0
+        },
+        {
+            "id": "100047089535258",
+            "count": 0
+        },
+        {
+            "id": "100048201211957",
+            "count": 0
+        },
+        {
+            "id": "100049769311544",
+            "count": 0
+        },
+        {
+            "id": "100050435290013",
+            "count": 0
+        },
+        {
+            "id": "100050908713514",
+            "count": 1
+        },
+        {
+            "id": "100051793971707",
+            "count": 0
+        },
+        {
+            "id": "100053395667570",
+            "count": 0
+        },
+        {
+            "id": "100053542129430",
+            "count": 0
+        },
+        {
+            "id": "100053872835790",
+            "count": 0
+        },
+        {
+            "id": "100054232549541",
+            "count": 0
+        },
+        {
+            "id": "100055406659432",
+            "count": 0
+        },
+        {
+            "id": "100063723990628",
+            "count": 0
+        },
+        {
+            "id": "100066618137812",
+            "count": 0
+        },
+        {
+            "id": "100067327305948",
+            "count": 0
+        },
+        {
+            "id": "100068619623774",
+            "count": 0
+        },
+        {
+            "id": "100069069744923",
+            "count": 0
+        },
+        {
+            "id": "100069405704588",
+            "count": 5
+        },
+        {
+            "id": "100070919484400",
+            "count": 0
+        },
+        {
+            "id": "100071028315918",
+            "count": 0
+        },
+        {
+            "id": "100072867805976",
+            "count": 0
+        },
+        {
+            "id": "100073429853218",
+            "count": 0
+        },
+        {
+            "id": "100074796258879",
+            "count": 0
+        },
+        {
+            "id": "100075272514747",
+            "count": 0
+        },
+        {
+            "id": "100075407324222",
+            "count": 17
+        },
+        {
+            "id": "100075729585717",
+            "count": 8
+        },
+        {
+            "id": "100076269012539",
+            "count": 0
+        },
+        {
+            "id": "100076773002135",
+            "count": 0
+        },
+        {
+            "id": "100078160874920",
+            "count": 0
+        },
+        {
+            "id": "100078224870008",
+            "count": 0
+        },
+        {
+            "id": "100078674366281",
+            "count": 0
+        },
+        {
+            "id": "100078762117419",
+            "count": 14
+        },
+        {
+            "id": "100079459947736",
+            "count": 0
+        },
+        {
+            "id": "100080021447388",
+            "count": 0
+        },
+        {
+            "id": "100080036667183",
+            "count": 0
+        },
+        {
+            "id": "100080074794921",
+            "count": 0
+        },
+        {
+            "id": "100080508870137",
+            "count": 0
+        },
+        {
+            "id": "100080757733149",
+            "count": 10
+        },
+        {
+            "id": "100081350627443",
+            "count": 0
+        },
+        {
+            "id": "100081462172617",
+            "count": 0
+        },
+        {
+            "id": "100081491385375",
+            "count": 0
+        },
+        {
+            "id": "100081742741675",
+            "count": 1
+        },
+        {
+            "id": "100082679113782",
+            "count": 0
+        },
+        {
+            "id": "100083080884048",
+            "count": 0
+        },
+        {
+            "id": "100083953816576",
+            "count": 0
+        },
+        {
+            "id": "100084509959066",
+            "count": 0
+        },
+        {
+            "id": "100084714709545",
+            "count": 0
+        },
+        {
+            "id": "100084840816996",
+            "count": 0
+        },
+        {
+            "id": "100085104709438",
+            "count": 0
+        },
+        {
+            "id": "100085325943793",
+            "count": 0
+        },
+        {
+            "id": "100086086277912",
+            "count": 0
+        },
+        {
+            "id": "100086212636137",
+            "count": 0
+        },
+        {
+            "id": "100086635565429",
+            "count": 0
+        },
+        {
+            "id": "100087039979031",
+            "count": 0
+        },
+        {
+            "id": "100087383654459",
+            "count": 0
+        },
+        {
+            "id": "100087390195130",
+            "count": 0
+        },
+        {
+            "id": "100087487242657",
+            "count": 0
+        },
+        {
+            "id": "100087503060477",
+            "count": 0
+        },
+        {
+            "id": "100088175354864",
+            "count": 0
+        },
+        {
+            "id": "100088396211893",
+            "count": 0
+        },
+        {
+            "id": "100088432243568",
+            "count": 0
+        },
+        {
+            "id": "100088233316186",
+            "count": 22
+        }
+    ],
+    "week": [
+        {
+            "id": "100008603987883",
+            "count": 0,
+            "name": "Nga Ne"
+        },
+        {
+            "id": "100031925444431",
+            "count": 0,
+            "name": "ʚNg Thi Tuyet Chiɞ"
+        },
+        {
+            "id": "100034618173923",
+            "count": 0,
+            "name": "Huyền Anh"
+        },
+        {
+            "id": "100034721684405",
+            "count": 0,
+            "name": "Hpng Dethuong"
+        },
+        {
+            "id": "100035338401736",
+            "count": 0,
+            "name": "Nguyễn Bình Phương"
+        },
+        {
+            "id": "100042707543279",
+            "count": 0,
+            "name": "Nguyễn Hoàng Anh Tiến"
+        },
+        {
+            "id": "100044065340362",
+            "count": 0,
+            "name": "Nguyễn Hiếu"
+        },
+        {
+            "id": "100047089535258",
+            "count": 0,
+            "name": "Lý Minh Luân"
+        },
+        {
+            "id": "100048201211957",
+            "count": 0,
+            "name": "Xuân Kiên"
+        },
+        {
+            "id": "100049769311544",
+            "count": 0,
+            "name": "NGUYEN LE MINH HUY"
+        },
+        {
+            "id": "100050435290013",
+            "count": 0,
+            "name": "𓆉 Người Bảo Kê Facebook Của Em Cả Đời Thì Em Xua Đuổi Còn Người Múa Mồm Với Em Dày Buổi Thì Em Lại Yêu 𓁏 Bạn Cười Tôi Vì Trên Facebook Không Nổi Tiếng Bằng Bạn Tôi Cười Bạn Vì Mất Nick Lại Tìm Đến Tôi 𓆫 Anh Không Phải Hacker Cũng Không Phải Tricker Anh Không Thể Bảo Kê FB Của Em Nhưng Anh Có Thể Mở Được Hai Tám Hai Mà Em Đang Ngậm 𓃦"
+        },
+        {
+            "id": "100050908713514",
+            "count": 0,
+            "name": "Bơ Dầm Nước Mắm"
+        },
+        {
+            "id": "100051793971707",
+            "count": 0,
+            "name": "Ng Minh Thư"
+        },
+        {
+            "id": "100053395667570",
+            "count": 0,
+            "name": "Thỵ Hân"
+        },
+        {
+            "id": "100053542129430",
+            "count": 0,
+            "name": "Long Hoàngg"
+        },
+        {
+            "id": "100053872835790",
+            "count": 0,
+            "name": "Lê Lưu Quân"
+        },
+        {
+            "id": "100054232549541",
+            "count": 0,
+            "name": "Hậu Leblanc"
+        },
+        {
+            "id": "100055406659432",
+            "count": 0,
+            "name": "Nguyễn Thiện Nhân"
+        },
+        {
+            "id": "100063723990628",
+            "count": 0,
+            "name": "Thanh Thảo"
+        },
+        {
+            "id": "100066618137812",
+            "count": 0,
+            "name": "Mih Hương"
+        },
+        {
+            "id": "100067327305948",
+            "count": 0,
+            "name": "Hoàng Duy"
+        },
+        {
+            "id": "100068619623774",
+            "count": 0,
+            "name": "Tự Phúc Nam"
+        },
+        {
+            "id": "100069069744923",
+            "count": 0,
+            "name": "Ngân Bùi"
+        },
+        {
+            "id": "100069405704588",
+            "count": 0,
+            "name": "Tr Nguyen Uyen Thy"
+        },
+        {
+            "id": "100070919484400",
+            "count": 0,
+            "name": "Nguyễn Hữu Đức"
+        },
+        {
+            "id": "100071028315918",
+            "count": 0,
+            "name": "Cà Pháo Mắm Tép"
+        },
+        {
+            "id": "100072867805976",
+            "count": 0,
+            "name": "ʚAilinne Tuyết Nhiɞ"
+        },
+        {
+            "id": "100073429853218",
+            "count": 0,
+            "name": "Ng Hoai Bao Nhi"
+        },
+        {
+            "id": "100074796258879",
+            "count": 0,
+            "name": "Bùi Việt"
+        },
+        {
+            "id": "100075272514747",
+            "count": 0,
+            "name": "Quyên Phan"
+        },
+        {
+            "id": "100075407324222",
+            "count": 0,
+            "name": "HắcHàn Thiên Minh"
+        },
+        {
+            "id": "100075729585717",
+            "count": 0,
+            "name": "Boyyđẹptrai Nhưngkhôngaicôngnhận"
+        },
+        {
+            "id": "100076269012539",
+            "count": 0,
+            "name": "Nguyễn Huy"
+        },
+        {
+            "id": "100076773002135",
+            "count": 0,
+            "name": "Le Sadboiz"
+        },
+        {
+            "id": "100078160874920",
+            "count": 0,
+            "name": "Tr Phươg Mai"
+        },
+        {
+            "id": "100078224870008",
+            "count": 0,
+            "name": "Pham Quynh Anh"
+        },
+        {
+            "id": "100078674366281",
+            "count": 0,
+            "name": "Na Hoàng"
+        },
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "100079459947736",
+            "count": 0,
+            "name": "Gia Vỹ"
+        },
+        {
+            "id": "100080021447388",
+            "count": 0,
+            "name": "Tuan Minh"
+        },
+        {
+            "id": "100080036667183",
+            "count": 0,
+            "name": "ʚQuỳnh Ngaɞ"
+        },
+        {
+            "id": "100080074794921",
+            "count": 0,
+            "name": "Nguyễn Phi"
+        },
+        {
+            "id": "100080508870137",
+            "count": 0,
+            "name": "Phương Thảo"
+        },
+        {
+            "id": "100080757733149",
+            "count": 0,
+            "name": "ʚNguyệt Lão Bà Bàɞ"
+        },
+        {
+            "id": "100081350627443",
+            "count": 0,
+            "name": "Tr Ah Thu"
+        },
+        {
+            "id": "100081462172617",
+            "count": 0,
+            "name": "Hiếu TQ"
+        },
+        {
+            "id": "100081491385375",
+            "count": 0,
+            "name": "Tuôi Cuti Vcuc"
+        },
+        {
+            "id": "100081742741675",
+            "count": 0,
+            "name": "ʚNqân Leblancɞ"
+        },
+        {
+            "id": "100082679113782",
+            "count": 0,
+            "name": "Su Su"
+        },
+        {
+            "id": "100083080884048",
+            "count": 0,
+            "name": "Nguyễn Tấn Khải"
+        },
+        {
+            "id": "100083953816576",
+            "count": 0,
+            "name": "Doan Chi Binh"
+        },
+        {
+            "id": "100084509959066",
+            "count": 0,
+            "name": "Ng Nhu Quynh"
+        },
+        {
+            "id": "100084714709545",
+            "count": 0,
+            "name": "Khanh Chi"
+        },
+        {
+            "id": "100084840816996",
+            "count": 0,
+            "name": "Đàn Em Hạo Nam"
+        },
+        {
+            "id": "100085104709438",
+            "count": 0,
+            "name": "Duy Hiếu"
+        },
+        {
+            "id": "100085325943793",
+            "count": 0,
+            "name": "Tự Lâm Nhi"
+        },
+        {
+            "id": "100086086277912",
+            "count": 0,
+            "name": "ɞNgọc Linhɞ"
+        },
+        {
+            "id": "100086212636137",
+            "count": 0,
+            "name": "Nguyễn Minh Nhật"
+        },
+        {
+            "id": "100086635565429",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100087039979031",
+            "count": 0,
+            "name": "Kim Ngann"
+        },
+        {
+            "id": "100087383654459",
+            "count": 0,
+            "name": "ʚHhy Dthuongɞ"
+        },
+        {
+            "id": "100087390195130",
+            "count": 0,
+            "name": "Tr Phong"
+        },
+        {
+            "id": "100087487242657",
+            "count": 0,
+            "name": "Bảo Ngọc"
+        },
+        {
+            "id": "100087503060477",
+            "count": 0,
+            "name": "Những Lời Đàm Tiểu Hoa Loa Linh Tinh 𓆣 Không Thể Nào Cản Bước Được 𓃚 VanTruong 𓅄 Cùng Ý Chí Sinh Tồn Đến Say Bo Da Đi Bên Đồng Đội Hai Ba Xông Pha 𓆈 Tài Năng Vẫn Còn Đấy 𓆤 Còn Băng Là Còn Sấy 𓅛 Cùng Đóng Góp Cho Tương Lai 𓃰 Liên Quân Việt Nam Thì 𓆉 Www.NgvanTruongDz.S   ...... .."
+        },
+        {
+            "id": "100088175354864",
+            "count": 0,
+            "name": "Tan Tân"
+        },
+        {
+            "id": "100088396211893",
+            "count": 0,
+            "name": "Dang Van Huy"
+        },
+        {
+            "id": "100088432243568",
+            "count": 0,
+            "name": "Khánh Ngọc"
+        },
+        {
+            "id": "100088233316186",
+            "count": 0,
+            "name": "Nguyễn Thiên Minh"
+        }
+    ],
+    "day": [
+        {
+            "id": "100008603987883",
+            "count": 0,
+            "name": "Nga Ne"
+        },
+        {
+            "id": "100031925444431",
+            "count": 0,
+            "name": "ʚNg Thi Tuyet Chiɞ"
+        },
+        {
+            "id": "100034618173923",
+            "count": 0,
+            "name": "Huyền Anh"
+        },
+        {
+            "id": "100034721684405",
+            "count": 0,
+            "name": "Hpng Dethuong"
+        },
+        {
+            "id": "100035338401736",
+            "count": 0,
+            "name": "Nguyễn Bình Phương"
+        },
+        {
+            "id": "100042707543279",
+            "count": 0,
+            "name": "Nguyễn Hoàng Anh Tiến"
+        },
+        {
+            "id": "100044065340362",
+            "count": 0,
+            "name": "Nguyễn Hiếu"
+        },
+        {
+            "id": "100047089535258",
+            "count": 0,
+            "name": "Lý Minh Luân"
+        },
+        {
+            "id": "100048201211957",
+            "count": 0,
+            "name": "Xuân Kiên"
+        },
+        {
+            "id": "100049769311544",
+            "count": 0,
+            "name": "NGUYEN LE MINH HUY"
+        },
+        {
+            "id": "100050435290013",
+            "count": 0,
+            "name": "𓆉 Người Bảo Kê Facebook Của Em Cả Đời Thì Em Xua Đuổi Còn Người Múa Mồm Với Em Dày Buổi Thì Em Lại Yêu 𓁏 Bạn Cười Tôi Vì Trên Facebook Không Nổi Tiếng Bằng Bạn Tôi Cười Bạn Vì Mất Nick Lại Tìm Đến Tôi 𓆫 Anh Không Phải Hacker Cũng Không Phải Tricker Anh Không Thể Bảo Kê FB Của Em Nhưng Anh Có Thể Mở Được Hai Tám Hai Mà Em Đang Ngậm 𓃦"
+        },
+        {
+            "id": "100050908713514",
+            "count": 0,
+            "name": "Bơ Dầm Nước Mắm"
+        },
+        {
+            "id": "100051793971707",
+            "count": 0,
+            "name": "Ng Minh Thư"
+        },
+        {
+            "id": "100053395667570",
+            "count": 0,
+            "name": "Thỵ Hân"
+        },
+        {
+            "id": "100053542129430",
+            "count": 0,
+            "name": "Long Hoàngg"
+        },
+        {
+            "id": "100053872835790",
+            "count": 0,
+            "name": "Lê Lưu Quân"
+        },
+        {
+            "id": "100054232549541",
+            "count": 0,
+            "name": "Hậu Leblanc"
+        },
+        {
+            "id": "100055406659432",
+            "count": 0,
+            "name": "Nguyễn Thiện Nhân"
+        },
+        {
+            "id": "100063723990628",
+            "count": 0,
+            "name": "Thanh Thảo"
+        },
+        {
+            "id": "100066618137812",
+            "count": 0,
+            "name": "Mih Hương"
+        },
+        {
+            "id": "100067327305948",
+            "count": 0,
+            "name": "Hoàng Duy"
+        },
+        {
+            "id": "100068619623774",
+            "count": 0,
+            "name": "Tự Phúc Nam"
+        },
+        {
+            "id": "100069069744923",
+            "count": 0,
+            "name": "Ngân Bùi"
+        },
+        {
+            "id": "100069405704588",
+            "count": 0,
+            "name": "Tr Nguyen Uyen Thy"
+        },
+        {
+            "id": "100070919484400",
+            "count": 0,
+            "name": "Nguyễn Hữu Đức"
+        },
+        {
+            "id": "100071028315918",
+            "count": 0,
+            "name": "Cà Pháo Mắm Tép"
+        },
+        {
+            "id": "100072867805976",
+            "count": 0,
+            "name": "ʚAilinne Tuyết Nhiɞ"
+        },
+        {
+            "id": "100073429853218",
+            "count": 0,
+            "name": "Ng Hoai Bao Nhi"
+        },
+        {
+            "id": "100074796258879",
+            "count": 0,
+            "name": "Bùi Việt"
+        },
+        {
+            "id": "100075272514747",
+            "count": 0,
+            "name": "Quyên Phan"
+        },
+        {
+            "id": "100075407324222",
+            "count": 0,
+            "name": "HắcHàn Thiên Minh"
+        },
+        {
+            "id": "100075729585717",
+            "count": 0,
+            "name": "Boyyđẹptrai Nhưngkhôngaicôngnhận"
+        },
+        {
+            "id": "100076269012539",
+            "count": 0,
+            "name": "Nguyễn Huy"
+        },
+        {
+            "id": "100076773002135",
+            "count": 0,
+            "name": "Le Sadboiz"
+        },
+        {
+            "id": "100078160874920",
+            "count": 0,
+            "name": "Tr Phươg Mai"
+        },
+        {
+            "id": "100078224870008",
+            "count": 0,
+            "name": "Pham Quynh Anh"
+        },
+        {
+            "id": "100078674366281",
+            "count": 0,
+            "name": "Na Hoàng"
+        },
+        {
+            "id": "100078762117419",
+            "count": 0,
+            "name": "Ngoc Mai JW"
+        },
+        {
+            "id": "100079459947736",
+            "count": 0,
+            "name": "Gia Vỹ"
+        },
+        {
+            "id": "100080021447388",
+            "count": 0,
+            "name": "Tuan Minh"
+        },
+        {
+            "id": "100080036667183",
+            "count": 0,
+            "name": "ʚQuỳnh Ngaɞ"
+        },
+        {
+            "id": "100080074794921",
+            "count": 0,
+            "name": "Nguyễn Phi"
+        },
+        {
+            "id": "100080508870137",
+            "count": 0,
+            "name": "Phương Thảo"
+        },
+        {
+            "id": "100080757733149",
+            "count": 0,
+            "name": "ʚNguyệt Lão Bà Bàɞ"
+        },
+        {
+            "id": "100081350627443",
+            "count": 0,
+            "name": "Tr Ah Thu"
+        },
+        {
+            "id": "100081462172617",
+            "count": 0,
+            "name": "Hiếu TQ"
+        },
+        {
+            "id": "100081491385375",
+            "count": 0,
+            "name": "Tuôi Cuti Vcuc"
+        },
+        {
+            "id": "100081742741675",
+            "count": 0,
+            "name": "ʚNqân Leblancɞ"
+        },
+        {
+            "id": "100082679113782",
+            "count": 0,
+            "name": "Su Su"
+        },
+        {
+            "id": "100083080884048",
+            "count": 0,
+            "name": "Nguyễn Tấn Khải"
+        },
+        {
+            "id": "100083953816576",
+            "count": 0,
+            "name": "Doan Chi Binh"
+        },
+        {
+            "id": "100084509959066",
+            "count": 0,
+            "name": "Ng Nhu Quynh"
+        },
+        {
+            "id": "100084714709545",
+            "count": 0,
+            "name": "Khanh Chi"
+        },
+        {
+            "id": "100084840816996",
+            "count": 0,
+            "name": "Đàn Em Hạo Nam"
+        },
+        {
+            "id": "100085104709438",
+            "count": 0,
+            "name": "Duy Hiếu"
+        },
+        {
+            "id": "100085325943793",
+            "count": 0,
+            "name": "Tự Lâm Nhi"
+        },
+        {
+            "id": "100086086277912",
+            "count": 0,
+            "name": "ɞNgọc Linhɞ"
+        },
+        {
+            "id": "100086212636137",
+            "count": 0,
+            "name": "Nguyễn Minh Nhật"
+        },
+        {
+            "id": "100086635565429",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100087039979031",
+            "count": 0,
+            "name": "Kim Ngann"
+        },
+        {
+            "id": "100087383654459",
+            "count": 0,
+            "name": "ʚHhy Dthuongɞ"
+        },
+        {
+            "id": "100087390195130",
+            "count": 0,
+            "name": "Tr Phong"
+        },
+        {
+            "id": "100087487242657",
+            "count": 0,
+            "name": "Bảo Ngọc"
+        },
+        {
+            "id": "100087503060477",
+            "count": 0,
+            "name": "Những Lời Đàm Tiểu Hoa Loa Linh Tinh 𓆣 Không Thể Nào Cản Bước Được 𓃚 VanTruong 𓅄 Cùng Ý Chí Sinh Tồn Đến Say Bo Da Đi Bên Đồng Đội Hai Ba Xông Pha 𓆈 Tài Năng Vẫn Còn Đấy 𓆤 Còn Băng Là Còn Sấy 𓅛 Cùng Đóng Góp Cho Tương Lai 𓃰 Liên Quân Việt Nam Thì 𓆉 Www.NgvanTruongDz.S   ...... .."
+        },
+        {
+            "id": "100088175354864",
+            "count": 0,
+            "name": "Tan Tân"
+        },
+        {
+            "id": "100088396211893",
+            "count": 0,
+            "name": "Dang Van Huy"
+        },
+        {
+            "id": "100088432243568",
+            "count": 0,
+            "name": "Khánh Ngọc"
+        },
+        {
+            "id": "100088233316186",
+            "count": 0,
+            "name": "Nguyễn Thiên Minh"
+        }
+    ],
+    "time": 4
+}
