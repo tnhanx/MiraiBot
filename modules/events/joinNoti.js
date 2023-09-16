@@ -54,7 +54,7 @@ module.exports.run = async function({ api, event, Users }) {
         console.log(userName)
 			}
 			memLength.sort((a, b) => a - b);		
-		(typeof threadData.customJoin == "undefined") ? msg = "[🔰] === 『 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 』 === [🔰]\n━━━━━━━━━━━━━━━━━━\n➝ {author} đã thêm {name} vào nhóm.\n➝ 𝗩𝗮̀𝗼 𝗹𝘂́𝗰: {time}": msg = threadData.customJoin;
+		(typeof threadData.customJoin == "undefined") ? msg = "[🔰] === 『 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 』 === [🔰]\n━━━━━━━━━━━━━━━━━━\n➝ {author} đã thêm {name} vào nhóm.\n➝ ID User: {iduser}\n➝ Vào lúc: {time}": msg = threadData.customJoin;
       var getData = await Users.getData(event.author)
 var nameAuthor = typeof getData.name == "undefined" ? "Người dùng tự vào" : getData.name
 			msg = msg
