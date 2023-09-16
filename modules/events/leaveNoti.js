@@ -56,7 +56,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
 
 	if (existsSync(path)) mkdirSync(path, { recursive: true });
 
-	(typeof data.customLeave == "undefined") ? msg = "[🔰] === 『 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 』 === [🔰]\n━━━━━━━━━━━━━━━━━━\n➝ {author} đã xóa {name} khỏi nhóm.\n➝ 𝗟𝗶𝗻𝗸 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:\nhttps://www.facebook.com/profile.php?id={uid}\n➝ 𝗩𝗮̀𝗼 𝗹𝘂́𝗰:  {gio}" : msg = data.customLeave;
+	(typeof data.customLeave == "undefined") ? msg = "[🔰] === 『 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 』 === [🔰]\n━━━━━━━━━━━━━━━━━━\n➝ {author} đã xóa {name} khỏi nhóm.\n➝ 𝗜𝗗 𝗨𝘀𝗲𝗿: {uid}\n➝ 𝗩𝗮̀𝗼 𝗹𝘂́𝗰:  {gio}" : msg = data.customLeave;
    var nameAuthor = await Users.getNameUser(event.author)
 	msg = msg.replace(/\{name}/g, name) .replace(/\{type}/g, type).replace(/\{buoi}/g, session).replace(/\{thu}/g, thu).replace(/\{gio}/g, gio).replace(/\{author}/g, nameAuthor).replace(/\{uidAuthor}/g, event.author).replace(/\{uid}/g, uid);
 
